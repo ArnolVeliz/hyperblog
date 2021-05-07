@@ -8,5 +8,6 @@ Un blog increíble para practica del curso de Git y Github.
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Incluye ejemplos en Windows, Linux y Mac
+* Creado por el increible platzi team
 
 Esto solo es una practica.
